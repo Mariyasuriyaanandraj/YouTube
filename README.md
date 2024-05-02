@@ -9,6 +9,11 @@ The problem statement is to create a Streamlit application that allows users to 
 Ability to search and retrieve data from the SQL database using different search options, including joining tables to get channel details.
 
 ### Project by
-Mariyasuriya
-Batch: MDTE_O4
+NAME : Mariyasuriya
+
+LinkedIn:https://www.linkedin.com/in/mariyasuriya-anandraj/
+
+BATCH: MDTE_04
+
+DOMAIN : DATA SCIENCE
 
